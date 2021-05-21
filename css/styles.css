@@ -191,3 +191,38 @@ h1{
     .price-col{
         padding: 3% 2%;
     }
+
+
+    /* BOTTOM */
+
+    #cta{
+        background-color: #ff4c68;
+        text-align: center;
+        padding: 7% 15%;
+    }
+
+    h3{
+        font-weight: 900;
+        font-size: 1.5rem;
+        margin: 15px;
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+        
+    }
+
+    .cta-h3{
+        font-size: 3.5rem; 
+        /* padding-bottom: 55px; */
+        line-height: 1.5;
+    }
+
+    #footer{
+        padding: 7% 15%;
+        text-align: center;
+    }
+
+    .social-icon{
+        margin: 20px 10px;
+    }
+
+  
